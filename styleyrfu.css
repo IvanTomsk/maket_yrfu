@@ -1,0 +1,193 @@
+header {
+    background: black;
+    color: white;
+    padding: 150px;
+    background-image: url("https://kontur.ru/Files/Modules/LandingPage/3732i/d27fc096-9af1-4bc4-af2c-a5d1105c2c4a.png?t=1652857673 " );
+    border-bottom-right-radius : 100px;
+    border-bottom-left-radius: 100px;
+}
+
+h1 {
+    padding-right: 150px;
+    margin-top: -300px; /* поднять вверх */
+    font-size: 50px;
+    /* letter-spacing: 2px; */
+    font-family: "Roboto", sans-serif;
+}
+
+h1 span {
+    padding-right: 40px;
+}
+
+header p {
+    padding-right: 30px;
+    margin-top: 80px;
+    font-size: 19px ;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px; /* расстояние между строками */
+}
+
+#sim {
+    /* border: 2px solid white; */
+    margin-top: -40px;
+    padding-left: 70px;
+}
+
+#ab1 {
+    padding-right: 43px;
+}
+
+#ab2 {
+    padding-right: 37px;
+}
+
+#ab3 {
+    padding-right: 60px;
+}
+
+#ab4 {
+    padding-right: 413px;
+}
+
+.progr {
+    padding-left: 150px;
+}
+
+.progr h1 {
+    font-family:"Roboro", sans-serif;
+    font-size: 43px ;
+}
+
+.progr p {
+    font-size: 22px;
+    /* font-weight: bold; */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0px;
+} 
+
+.progr #na3 {
+    line-height: 1px;
+}
+
+.progr #nak {
+    color: rgb(233, 15, 204);
+    text-decoration: underline;
+}
+
+.kurs {
+    line-height: 130px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.kurs span {
+    padding-left: 40px;
+    margin-right: 100px;  /* расстояние между тегами */
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+}
+
+.kurs hr {
+    margin-top: -47px;
+    margin-right: 470px; /* укоротить линию справа  */
+}
+
+#kurs1 {
+    color:rgb(233, 15, 204)
+}
+
+li {
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 10px;
+    background:rgba(242, 239, 253, 1);
+    padding: 5px;
+    margin-right: 600px;
+    list-style-type: none; /* убрать точки в списках */
+}
+
+.spiski p {
+    /* border:2px solid blue; */
+    padding: 12px;
+    background: black;
+    color: white;
+    padding-left: 40px;
+    /* margin-right: 900px; */
+}
+
+.tab1 p {
+    margin-right: 1030px;
+    background: #B750D1;
+}
+
+.tab1 li {
+    border-left: 5px solid #B750D1;
+}
+
+.tab2 p {
+    margin-right: 1110px;
+    background: #5146CC;
+}
+
+.tab2 li{
+    border-left: 5px solid #5146CC;
+}
+
+.tab3 p {
+    margin-right: 900px;
+    background: #2B79FF;
+}
+
+.tab3 li {
+    border-left: 5px solid #2B79FF;
+}
+
+.rass {
+    padding-left: 30%;
+    background: rgba(242, 239, 253, 1);
+    padding: 250px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.rass h2 {
+    font-size: 41px;
+    font-family: "Roboto", sans-serif;
+    margin-top: -110px;
+    padding-left: 230px
+}
+
+.rass p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-left: 200px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+#icc {
+    padding-left: 100px;
+}
+
+input {
+    padding: 15px;
+    padding-right: 120px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+form {
+    padding-left: 340px;
+}
+
+button {
+    font-size: 20px;
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 110px;
+    border-radius: 30px;
+    background: rgb(139, 19, 187);
+    color: white;
+    text-decoration: bold;
+}
